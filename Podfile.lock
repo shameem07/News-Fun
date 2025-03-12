@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.9.1)
+  - DocumentClassifier (1.2.0)
+  - Kingfisher (4.7.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - DocumentClassifier
+  - Kingfisher
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DocumentClassifier
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  DocumentClassifier: a32b4d0dbcd0c38ec9ef16949c184923e16d818a
+  Kingfisher: da6b005aa96d37698e3e4f1ccfe96a5b9bbf27d6
+
+PODFILE CHECKSUM: 457948cbb7d9d13b37f1ed6c4a75d32687c7ce94
+
+COCOAPODS: 1.16.2
